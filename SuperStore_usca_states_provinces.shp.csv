@@ -1,0 +1,70 @@
+﻿Country,State (usca_states_provinces.shp),State_Abbr,Geometry
+Canada,Manitoba,MB,Polygon
+Canada,Nunavut,NU,Polygon
+Canada,Newfoundland & Labrador,NL,Polygon
+Canada,Prince Edward Island,PE,Polygon
+Canada,Northwest Territories,NT,Polygon
+Canada,Nova Scotia,NS,Polygon
+Canada,Alberta,AB,Polygon
+Canada,Saskatchewan,SK,Polygon
+Canada,Quebec,QC,Polygon
+Canada,British Columbia,BC,Polygon
+Canada,New Brunswick,NB,Polygon
+Canada,Ontario,ON,Polygon
+Canada,Yukon,YT,Polygon
+United States,Alabama,AL,Polygon
+United States,Alaska,AK,Polygon
+United States,Arizona,AZ,Polygon
+United States,Arkansas,AR,Polygon
+United States,California,CA,Polygon
+United States,Colorado,CO,Polygon
+United States,Connecticut,CT,Polygon
+United States,Delaware,DE,Polygon
+United States,District of Columbia,DC,Polygon
+United States,Florida,FL,Polygon
+United States,Georgia,GA,Polygon
+United States,Hawaii,HI,Polygon
+United States,Idaho,ID,Polygon
+United States,Illinois,IL,Polygon
+United States,Indiana,IN,Polygon
+United States,Iowa,IA,Polygon
+United States,Kansas,KS,Polygon
+United States,Kentucky,KY,Polygon
+United States,Louisiana,LA,Polygon
+United States,Maine,ME,Polygon
+United States,Maryland,MD,Polygon
+United States,Massachusetts,MA,Polygon
+United States,Michigan,MI,Polygon
+United States,Minnesota,MN,Polygon
+United States,Mississippi,MS,Polygon
+United States,Missouri,MO,Polygon
+United States,Montana,MT,Polygon
+United States,Nebraska,NE,Polygon
+United States,Nevada,NV,Polygon
+United States,New Hampshire,NH,Polygon
+United States,New Jersey,NJ,Polygon
+United States,New Mexico,NM,Polygon
+United States,New York,NY,Polygon
+United States,North Carolina,NC,Polygon
+United States,North Dakota,ND,Polygon
+United States,Ohio,OH,Polygon
+United States,Oklahoma,OK,Polygon
+United States,Oregon,OR,Polygon
+United States,Pennsylvania,PA,Polygon
+United States,Rhode Island,RI,Polygon
+United States,South Carolina,SC,Polygon
+United States,South Dakota,SD,Polygon
+United States,Tennessee,TN,Polygon
+United States,Texas,TX,Polygon
+United States,Utah,UT,Polygon
+United States,Vermont,VT,Polygon
+United States,Virginia,VA,Polygon
+United States,Washington,WA,Polygon
+United States,West Virginia,WV,Polygon
+United States,Wisconsin,WI,Polygon
+United States,Wyoming,WY,Polygon
+United States,Mariana Islands,MP,Polygon
+United States,Virgin Islands,VI,Polygon
+United States,Guam,GU,Polygon
+United States,Puerto Rico,PR,Polygon
+United States,American Samoa,AS,Polygon
